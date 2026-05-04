@@ -1,4 +1,5 @@
 
+![[Pasted image 20260427231137.png]]
 ![[Pasted image 20260415203233.png]]
 ![[Pasted image 20260415203059.png]]
 ```cpp
